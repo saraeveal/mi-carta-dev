@@ -12,10 +12,10 @@ $(document).ready(function () {
 
     $(".carta").hover(
         function () {
-            $(".rareza").text("¡MODO LEGENDARIO!");
+            $(".rareza").text("✨Modo Legendario✨");
         },
         function () {
-            $(".rareza").text("✨Legendaria✨");
+            $(".rareza").text("Rareza: Legendaria");
         }
     );
 
