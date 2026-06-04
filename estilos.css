@@ -135,7 +135,9 @@ button:active {
     text-align: center;
     font-weight: bold;
 }
-
+#hobby-box {
+    cursor: pointer;
+}
 /* Se activa con jQuery */
 
 .activa {
